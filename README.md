@@ -1,6 +1,10 @@
 # Grade Management System
 
+![](https://github.com/Teasotea/uni_jornal_system/blob/master/repo_img/login.jpg)
 
+## Entity Relationship Diagram (ERD)
+
+![](https://github.com/Teasotea/uni_jornal_system/blob/master/repo_img/ER.jpg)
 
 ## How to use
 
@@ -21,8 +25,19 @@ mvn clean install
 mvn spring-boot:run
 ```
 
+## Project Pictures
 
-## Task technical requirements
+![](https://github.com/Teasotea/uni_jornal_system/blob/master/repo_img/students.jpg)
+
+![](https://github.com/Teasotea/uni_jornal_system/blob/master/repo_img/activities.jpg)
+
+![](https://github.com/Teasotea/uni_jornal_system/blob/master/repo_img/new_course.jpg)
+
+![](https://github.com/Teasotea/uni_jornal_system/blob/master/repo_img/update_student.jpg)
+
+
+
+## Project Description
 
 Journal as a Table
 
