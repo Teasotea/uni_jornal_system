@@ -35,7 +35,7 @@ mvn spring-boot:run
 
 ![](https://github.com/Teasotea/uni_jornal_system/blob/master/repo_img/update_student.jpg)
 
-
+![](https://github.com/Teasotea/uni_jornal_system/blob/master/repo_img/register.jpg)
 
 ## Project Description
 
